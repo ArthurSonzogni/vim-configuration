@@ -1,0 +1,27 @@
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git@github.com:scrooloose/syntastic.git
+[submodule "bundle/vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = git@github.com:terryma/vim-multiple-cursors.git
+[submodule "bundle/a.vim"]
+	path = bundle/a.vim
+	url = git@github.com:vim-scripts/a.vim.git
+[submodule "bundle/alternate"]
+	path = bundle/alternate
+	url = git@github.com:vim-scripts/a.vim.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/snipmate"]
+	path = bundle/snipmate
+	url = git@github.com:garbas/vim-snipmate.git
+[submodule "bundle/tlib"]
+	path = bundle/tlib
+	url = https://github.com/tomtom/tlib_vim.git
+[submodule "bundle/mw-utils"]
+	path = bundle/mw-utils
+	url = https://github.com/MarcWeber/vim-addon-mw-utils.git
