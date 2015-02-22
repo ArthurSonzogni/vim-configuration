@@ -1,6 +1,10 @@
-vim-configuration
+# vim-configuration
 
-my vim configuration
+My current vim configuration.
+
+## Instruction
+    git clone git@github.com:ArthurSonzogni/vim-configuration.git ~/.vim --recursive
+    ln -s ~/.vimrc/.vimrc ~/.vimrc
 
 ## Configuration
 
