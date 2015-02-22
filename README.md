@@ -3,8 +3,10 @@
 My current vim configuration.
 
 ## Instruction
-git clone git@github.com:ArthurSonzogni/vim-configuration.git ~/.vim **--recursive**
-ln -s ~/.vimrc/.vimrc ~/.vimrc
+<pre>
+  git clone git@github.com:ArthurSonzogni/vim-configuration.git ~/.vim <b>--recursive</b>
+  ln -s ~/.vimrc/.vimrc ~/.vimrc
+</pre>
 
 ## Configuration
 
