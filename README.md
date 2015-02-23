@@ -2,9 +2,11 @@
 
 My current vim configuration.
 
-## Instruction
+## Instruction / Installation
 <pre>
+  rm ~/.vim -rf
   git clone git@github.com:ArthurSonzogni/vim-configuration.git ~/.vim <b>--recursive</b>
+  rm ~/.vimrc
   ln -s ~/.vim/.vimrc ~/.vimrc
 </pre>
 
