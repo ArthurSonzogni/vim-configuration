@@ -5,7 +5,7 @@ My current vim configuration.
 ## Instruction
 <pre>
   git clone git@github.com:ArthurSonzogni/vim-configuration.git ~/.vim <b>--recursive</b>
-  ln -s ~/.vimrc/.vimrc ~/.vimrc
+  ln -s ~/.vim/.vimrc ~/.vimrc
 </pre>
 
 ## Configuration
@@ -15,10 +15,6 @@ My current vim configuration.
 * in edition mode, type jj to return in normal mode. 
 * Clipboard copy and paste : <leader>y, <leader>p (<leader> = \ )
 
-## Installation
-
-* Simply clone the repo into your .vim folder
-* move/link the .vimrc  to ~/.vimrc
 
 ##Plugins added:
 
