@@ -2,9 +2,13 @@
 
 My current vim configuration.
 
-## Instruction
-git clone git@github.com:ArthurSonzogni/vim-configuration.git ~/.vim **--recursive**
-ln -s ~/.vimrc/.vimrc ~/.vimrc
+## Instruction / Installation
+<pre>
+  rm ~/.vim -rf
+  git clone git@github.com:ArthurSonzogni/vim-configuration.git ~/.vim <b>--recursive</b>
+  rm ~/.vimrc
+  ln -s ~/.vim/.vimrc ~/.vimrc
+</pre>
 
 ## Configuration
 
@@ -13,10 +17,6 @@ ln -s ~/.vimrc/.vimrc ~/.vimrc
 * in edition mode, type jj to return in normal mode. 
 * Clipboard copy and paste : <leader>y, <leader>p (<leader> = \ )
 
-## Installation
-
-* Simply clone the repo into your .vim folder
-* move/link the .vimrc  to ~/.vimrc
 
 ##Plugins added:
 
