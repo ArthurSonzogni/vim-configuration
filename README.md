@@ -19,6 +19,13 @@ My current vim configuration.
 
 
 ##Plugins added:
+* Pathogen : plugin manager
+* Alternate : switch between header and implementation
+* Vim-multiple-cursor : edit multiple place at once.
+* NerdCommenter : comment blocs independently to the language.
+* NerdTree : a side-panel presenting your files and folder.
+* snipmate : add snipets
+* tabular : help aligning things.
 
 ### Pathogen
 Vim plugin manager.
