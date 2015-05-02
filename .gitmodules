@@ -3,7 +3,7 @@
 	url = http://github.com/scrooloose/syntastic.git
 [submodule "bundle/vim-multiple-cursors"]
 	path = bundle/vim-multiple-cursors
-	url = http/github.com/terryma/vim-multiple-cursors.git
+	url = http://github.com/terryma/vim-multiple-cursors.git
 [submodule "bundle/a.vim"]
 	path = bundle/a.vim
 	url = http://github.com/vim-scripts/a.vim.git
