@@ -15,10 +15,10 @@
 	url = http://github.com/scrooloose/nerdcommenter.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = http@github.com/scrooloose/nerdtree.git
+	url = http://github.com/scrooloose/nerdtree.git
 [submodule "bundle/snipmate"]
 	path = bundle/snipmate
-	url = http@github.com/garbas/vim-snipmate.git
+	url = http://github.com/garbas/vim-snipmate.git
 [submodule "bundle/tlib"]
 	path = bundle/tlib
 	url = http://github.com/tomtom/tlib_vim.git
